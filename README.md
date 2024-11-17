@@ -4,7 +4,7 @@
 
 # MySQL + phpMyAdmin Stack
 
-Este repositório configura um ambiente de desenvolvimento com **MySQL** e **phpMyAdmin** usando contêineres Docker Compose. A configuração permite que você gerencie um banco de dados MySQL com facilidade usando a interface gráfica do phpMyAdmin.
+Este repositório configura um ambiente de desenvolvimento com **MySQL** e **phpMyAdmin** usando contêineres Docker Compose. A configuração gerenciamento com banco de dados MySQL com facilidade usando a interface gráfica do phpMyAdmin.
 
 ## Tecnologias
 
